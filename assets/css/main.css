@@ -7288,3 +7288,7 @@ div[class*=col]:nth-of-type(6n + 6) .shop-item .product-thumb, div[class*=col]:n
   pointer-events: none;
   cursor: default;
 }
+
+.galleryhide{
+  display: none;
+}
